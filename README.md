@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p><strong>CS Engineering Student @ Duoc UC | Full-Stack & Mobile Developer</strong></p>
+  <p><strong>CS Engineering Student @DuocUC | Full-Stack & Mobile Developer</strong></p>
   <p>Based in Viña del Mar, Chile</p>
 </div>
 
