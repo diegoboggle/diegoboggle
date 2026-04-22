@@ -46,4 +46,4 @@ Full-stack e-commerce platform. Backend powered by Java Spring Boot with JWT aut
 
 Open to discussing clean architecture, modern frameworks, and open-source projects.
 
-* **Email:** diegoboggle@icloud.com
+* **Email:** diegoboggle.dev@gmail.com
