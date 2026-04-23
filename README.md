@@ -6,7 +6,7 @@
 
 <div align="center">
   <p><strong>CS Engineering Student @DuocUC | Full-Stack & Mobile Developer</strong></p>
-  <p>Based in Viña del Mar, Chile</p>
+  <p>Based in Santiago Metropolitan Region, Chile</p>
 </div>
 
 ---
